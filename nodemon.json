@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "mongodb",
+        "MONGO_PASSWORD": "qfMR5xYSPqd2m9SL",
+        "MONGO_DB": "test",
+        "apiKey" : "ba0c475e-e71c-42db-9306-861635cd48a9"
+    }
+}
